@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>我的第一个站点</title>
+    <url>/posts/99e880cf/</url>
+    <content><![CDATA[<h1 id="本站说明"><a href="#本站说明" class="headerlink" title="本站说明"></a>本站说明</h1><p>本博客使用Vercel托管hexo静态页面，使用腾讯云域名注册，主题使用<a href="https://github.com/jerryc127/hexo-theme-butterfly">hexo-theme-butterfly</a>，配置步骤参考<a href="https://demo.jerryc.me/">https://demo.jerryc.me/</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Spring系列学习</title>
+    <url>/posts/982dfb85/</url>
+    <content><![CDATA[<h2 id="Spring-系列教程"><a href="#Spring-系列教程" class="headerlink" title="Spring 系列教程"></a>Spring 系列教程</h2><p>该仓库为个人博客<a href="https://mrbird.cc/">https://mrbird.cc</a>中Spring系列源码，包含Spring Boot、Spring Boot &amp; Shiro、Spring Cloud，Spring Boot &amp; Spring Security &amp; Spring Security OAuth2，仓库地址为<a href="https://github.com/wuyouzhuguli/SpringAll">https://github.com/wuyouzhuguli/SpringAll</a></p>
+<h3 id="Spring-Boot教程"><a href="#Spring-Boot教程" class="headerlink" title="Spring Boot教程"></a>Spring Boot教程</h3><ol>
+<li><a href="https://mrbird.cc/%E5%BC%80%E5%90%AFSpring-Boot.html">开启Spring Boot</a></li>
+<li><a href="https://mrbird.cc/Spring-Boot%20basic%20config.html">Spring Boot基础配置</a></li>
+<li><a href="https://mrbird.cc/Spring-Boot%20Mybatis.html">Spring Boot中使用MyBatis</a></li>
+<li><a href="https://mrbird.cc/Spring-Boot%20JdbcTemplate.html">Spring Boot中使用JdbcTemplate</a></li>
+<li><a href="https://mrbird.cc/Spring-Boot-MyBatis%20Druid.html">Spring Boot MyBatis配置Druid多数据源</a></li>
+<li><a href="https://mrbird.cc/Spring-Boot-JdbcTemplate%20Druid.html">Spring Boot JdbcTemplate配置Druid多数据源</a></li>
+<li><a href="https://mrbird.cc/Spring-Boot-AOP%20log.html">Spring Boot AOP记录用户操作日志</a></li>
+<li><a href="https://mrbird.cc/Spring-Boot%E4%BD%BF%E7%94%A8thymeleaf.html">Spring Boot中使用thymeleaf</a></li>
+<li><a href="https://mrbird.cc/Spring-Boot%20cache.html">Spring Boot中使用Redis缓存数据</a></li>
+<li><a href="https://mrbird.cc/Spring-Boot%20cache.html">Spring Boot中使用Ehcache缓存数据</a></li>
+<li><a href="https://mrbird.cc/Spring-Boot%20JSON.html">Spring Boot中的JSON技术</a></li>
+<li><a href="https://mrbird.cc/Spring-Boot%20TESTing.html">Spring Boot中编写单元测试</a></li>
+<li><a href="https://mrbird.cc/Spring-Boot-Swagger2-RESTful-API.html">Spring Boot整合Swagger2构建RESTful API</a></li>
+<li><a href="https://mrbird.cc/Acutator-Spring-Boot.html">使用Actuator监控Spring Boot应用</a></li>
+<li><a href="https://mrbird.cc/Spring-Boot-Email.html">使用Spring Boot发送邮件</a></li>
+<li><a href="https://mrbird.cc/Spring-Boot-Admin.html">使用Spring Boot Admin监控服务</a></li>
+<li><a href="https://mrbird.cc/Spring-Boot-Devtools.html">Spring Boot Devtools热部署</a></li>
+<li><a href="https://mrbird.cc/Spring-Boot-logback.html">Spring Boot logback日志配置</a></li>
+<li><a href="https://mrbird.cc/Spring-Boot%20war.html">Spring Boot项目打包成war包</a></li>
+<li><a href="https://mrbird.cc/Linux%20Spring-Boot-jar.html">Linux下部署Spring Boot jar</a></li>
+<li><a href="https://mrbird.cc/Jsoup%20XSS.html">Spring Boot中使用Jsoup防御XSS攻击</a></li>
+<li><a href="https://mrbird.cc/Spring-Boot-Exception.html">Spring Boot异常处理</a></li>
+<li><a href="https://mrbird.cc/Spring-Boot-Filter-Interceptor.html">Spring Boot中使用过滤器和拦截器</a></li>
+<li><a href="https://mrbird.cc/MyBatis%20common%20Mapper%20PageHelper.html">Spring Boot整合MyBatis通用Mapper和PageHelper</a></li>
+<li><a href="https://mrbird.cc/deepin-springboot-autoconfig.html">深入学习Spring Boot自动装配</a></li>
+<li><a href="https://mrbird.cc/deepin-springboot-application.html">深入学习Spring Boot中的SpringApplication</a></li>
+<li><a href="https://mrbird.cc/Spring-Boot-Hibernate-Validator-Params-Check.html">Spring Boot配合Hibernate Validator参数校验</a></li>
+<li><a href="https://mrbird.cc/Spring-Boot-Diy-Resolver.html">自定义Spring Boot 内容协商</a></li>
+<li><a href="https://mrbird.cc/Spring-Boot-Deal-CORS.html">Spring Boot 中处理跨域</a></li>
+<li><a href="https://mrbird.cc/Spring-Boot-Async.html">Spring Boot 中的异步调用</a></li>
+<li><a href="https://mrbird.cc/Spring-Boot-Kafka.html">Spring Boot 整合Kafka</a></li>
+<li><a href="https://mrbird.cc/Spring-Boot-Mongo-DB-CRUD.html">Spring Boot整合Mongo DB</a></li>
+<li><a href="https://mrbird.cc/Spring-Boot-2-0-WebFlux.html">Spring Boot 2.0 WebFlux编程</a></li>
+<li><a href="https://mrbird.cc/Spring-Boot-WebFlux-CRUD.html">Spring Boot WebFlux增删改查样例</a></li>
+<li><a href="https://mrbird.cc/Spring-Boot%E6%95%B4%E5%90%88WebSocket.html">Spring Boot整合WebSocket</a></li>
+</ol>
+<h3 id="Spring-Boot-amp-Shiro教程"><a href="#Spring-Boot-amp-Shiro教程" class="headerlink" title="Spring Boot &amp; Shiro教程"></a>Spring Boot &amp; Shiro教程</h3><ol>
+<li><a href="https://mrbird.cc/Spring-Boot-shiro%20Authentication.html">Spring Boot Shiro用户认证</a></li>
+<li><a href="https://mrbird.cc/Spring-Boot-Shiro%20Remember-Me.html">Spring Boot Shiro Remember Me</a></li>
+<li><a href="https://mrbird.cc/Spring-Boot-Shiro%20Authorization.html">Spring Boot Shiro权限控制</a></li>
+<li><a href="https://mrbird.cc/Spring-Boot-Shiro%20cache.html">Spring Boot Shiro Redis</a></li>
+<li><a href="https://mrbird.cc/Spring-Boot-Shiro%20cache.html">Spring Boot Shiro Ehcache</a></li>
+<li><a href="https://mrbird.cc/Spring-Boot-Themeleaf%20Shiro%20tag.html">Spring Boot Thymeleaf中使用Shiro标签</a></li>
+<li><a href="https://mrbird.cc/Spring-Boot-Shiro%20session.html">Spring Boot Shiro在线会话管理</a></li>
+<li><a href="https://github.com/wuyouzhuguli/SpringAll/tree/master/62.Spring-Boot-Shiro-JWT">Spring Boot Shiro整合JWT</a></li>
+</ol>
+<h3 id="Spring-Boot-amp-Security教程"><a href="#Spring-Boot-amp-Security教程" class="headerlink" title="Spring Boot &amp; Security教程"></a>Spring Boot &amp; Security教程</h3><ol>
+<li><a href="https://mrbird.cc/Spring-Boot&amp;Spring-Security.html">Spring Boot中开启Spring Security</a></li>
+<li><a href="https://mrbird.cc/Spring-Security-Authentication.html">Spring Security自定义用户认证</a></li>
+<li><a href="https://mrbird.cc/Spring-Security-ValidateCode.html">Spring Security添加图形验证码</a></li>
+<li><a href="https://mrbird.cc/Spring-Security-RememberMe.html">Spring Security添加记住我功能</a></li>
+<li><a href="https://mrbird.cc/Spring-Security-SmsCode.html">Spring Security短信验证码登录</a></li>
+<li><a href="https://mrbird.cc/Spring-Security-Session-Manage.html">Spring Security Session管理</a></li>
+<li><a href="https://mrbird.cc/Spring-Security-logout.html">Spring Security退出登录</a></li>
+<li><a href="https://mrbird.cc/Spring-Security-Permission.html">Spring Security权限控制</a></li>
+<li><a href="https://mrbird.cc/Spring-Security-OAuth2-Guide.html">Spring Security OAuth2入门</a></li>
+<li><a href="https://mrbird.cc/Spring-Security-OAuth2-Customize.html">Spring Security OAuth2自定义Token获取方式</a></li>
+<li><a href="https://mrbird.cc/Spring-Security-OAuth2-Token-Config.html">Spring Security OAuth2自定义令牌配置</a></li>
+<li><a href="https://mrbird.cc/Spring-Security-OAuth2-SSO.html">Spring Security OAuth2单点登录</a></li>
+</ol>
+<h3 id="Spring-Cloud教程"><a href="#Spring-Cloud教程" class="headerlink" title="Spring Cloud教程"></a>Spring Cloud教程</h3><ol>
+<li><a href="https://mrbird.cc/Spring-Cloud%20and%20MicroService.html">初识Spring Cloud与微服务</a></li>
+<li><a href="https://mrbird.cc/Spring-Cloud-Eureka.html">Spring Cloud Eureka服务治理</a></li>
+<li><a href="https://mrbird.cc/Spring-Cloud-Ribbon-LoadBalance.html">Spring Cloud Ribbon客户端负载均衡</a></li>
+<li><a href="https://mrbird.cc/Spring-Cloud-Hystrix-Circuit-Breaker.html">Spring Cloud Hystrix服务容错</a></li>
+<li><a href="https://mrbird.cc/Spring-Cloud-Hystrix-Dashboard.html">Spring Cloud Hystrix Dashboard仪表盘</a></li>
+<li><a href="https://mrbird.cc/Spring-Cloud-Hystrix-Dashboard.html">Spring Cloud Hystrix Dashboard仪表盘 &amp; RabbitMQ</a></li>
+<li><a href="https://mrbird.cc/Spring-Cloud-Feign.html">Spring Cloud Feign 声明式服务调用</a></li>
+<li><a href="https://mrbird.cc/Spring-Cloud-Zuul-Router.html">Spring Cloud Zuul服务网关</a></li>
+<li><a href="https://mrbird.cc/Spring-Cloud-Config.html">Spring Cloud Config统一配置管理</a></li>
+<li><a href="https://mrbird.cc/Spring-Cloud-Bus.html">使用Spring Cloud Bus刷新配置</a></li>
+<li><a href="https://mrbird.cc/Spring-Cloud-sleuth.html">使用Spring Cloud Sleuth跟踪微服务</a></li>
+<li><a href="https://mrbird.cc/Spring-Cloud-Consul.html">Spring Cloud Consul服务治理</a></li>
+<li><a href="https://mrbird.cc/Spring-Cloud-Alibaba-Nacos%E6%B3%A8%E5%86%8C%E4%B8%AD%E5%BF%83.html">Spring Cloud Alibaba Nacos注册中心</a></li>
+<li><a href="https://mrbird.cc/Spring-Cloud-Alibaba-Nacos%E9%85%8D%E7%BD%AE%E4%B8%AD%E5%BF%83.html">Spring Cloud Alibaba Nacos配置中心</a></li>
+<li><a href="https://mrbird.cc/Sentinel%E6%8E%A7%E5%88%B6%E5%8F%B0%E8%AF%A6%E8%A7%A3.html">Spring Cloud Alibaba Sentinel控制台详解</a></li>
+<li><a href="https://mrbird.cc/Spring-Cloud-Alibaba-Sentinel-SentinelResource.html">Spring Cloud Alibaba Sentinel @SentinelResource</a></li>
+</ol>
+<h3 id="Spring-Boot-amp-amp-Dubbo教程"><a href="#Spring-Boot-amp-amp-Dubbo教程" class="headerlink" title="Spring Boot &amp;&amp; Dubbo教程"></a>Spring Boot &amp;&amp; Dubbo教程</h3><ol>
+<li><a href="https://mrbird.cc/Spring-Boot-Dubbo-Zookeeper.html">Spring Boot整合Dubbo&amp;Zookeeper</a></li>
+<li><a href="https://mrbird.cc/dubbo-mointor.html">监控Dubbo服务</a></li>
+<li><a href="https://mrbird.cc/Dubbo-High-Availability.html">Dubbo的高可用</a></li>
+</ol>
+<h3 id="Spring-Boot-amp-amp-Spring-Batch教程"><a href="#Spring-Boot-amp-amp-Spring-Batch教程" class="headerlink" title="Spring Boot &amp;&amp; Spring Batch教程"></a>Spring Boot &amp;&amp; Spring Batch教程</h3><ol>
+<li><a href="https://mrbird.cc/Spring-Batch%E5%85%A5%E9%97%A8.html">Spring Batch入门</a></li>
+<li><a href="https://mrbird.cc/Spring-Batch%E8%AF%BB%E5%8F%96%E6%95%B0%E6%8D%AE.html">Spring Batch读取数据</a></li>
+<li><a href="https://mrbird.cc/Spring-Batch%E8%BE%93%E5%87%BA%E6%95%B0%E6%8D%AE.html">Spring Batch输出数据</a></li>
+<li><a href="https://mrbird.cc/Spring-Batch%E5%A4%84%E7%90%86%E6%95%B0%E6%8D%AE.html">Spring Batch处理数据</a></li>
+<li><a href="https://mrbird.cc/Spring-Batch%E7%9B%91%E5%90%AC%E5%99%A8.html">Spring Batch监听器</a></li>
+<li><a href="https://mrbird.cc/Spring-Batch%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86.html">Spring Batch异常处理</a></li>
+<li><a href="https://mrbird.cc/Spring-Batch%E4%BD%9C%E4%B8%9A%E8%B0%83%E5%BA%A6.html">Spring Batch任务调度</a></li>
+</ol>
+<h2 id="Spring"><a href="#Spring" class="headerlink" title="Spring"></a>Spring</h2><ol>
+<li><a href="https://mrbird.cc/Spring-Bean-Regist.html">深入学习Spring组件注册</a></li>
+<li><a href="https://mrbird.cc/Spring-Bean-Lifecycle.html">深入学习Spring Bean生命周期</a></li>
+</ol>
+<p>持续更新中…</p>
+]]></content>
+      <categories>
+        <category>Java学习</category>
+      </categories>
+      <tags>
+        <tag>Java</tag>
+        <tag>SpringBoot</tag>
+        <tag>SpringCloud</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>实用网站</title>
+    <url>/posts/d834b91a/</url>
+    <content><![CDATA[<p>免费图床: <a href="https://sm.ms/">https://sm.ms/</a></p>
+]]></content>
+      <tags>
+        <tag>工具</tag>
+      </tags>
+  </entry>
+</search>
