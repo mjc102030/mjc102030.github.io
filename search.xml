@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>实用网站</title>
+    <url>/posts/d834b91a/</url>
+    <content><![CDATA[<p>免费图床: <a href="https://sm.ms/">https://sm.ms/</a></p>
+]]></content>
+      <tags>
+        <tag>工具</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Spring系列学习</title>
     <url>/posts/982dfb85/</url>
     <content><![CDATA[<h2 id="Spring-系列教程"><a href="#Spring-系列教程" class="headerlink" title="Spring 系列教程"></a>Spring 系列教程</h2><p>该仓库为个人博客<a href="https://mrbird.cc/">https://mrbird.cc</a>中Spring系列源码，包含Spring Boot、Spring Boot &amp; Shiro、Spring Cloud，Spring Boot &amp; Spring Security &amp; Spring Security OAuth2，仓库地址为<a href="https://github.com/wuyouzhuguli/SpringAll">https://github.com/wuyouzhuguli/SpringAll</a></p>
@@ -113,15 +122,6 @@
       </tags>
   </entry>
   <entry>
-    <title>实用网站</title>
-    <url>/posts/d834b91a/</url>
-    <content><![CDATA[<p>免费图床: <a href="https://sm.ms/">https://sm.ms/</a></p>
-]]></content>
-      <tags>
-        <tag>工具</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>我的第一个站点</title>
     <url>/posts/99e880cf/</url>
     <content><![CDATA[<h1 id="本站说明"><a href="#本站说明" class="headerlink" title="本站说明"></a>本站说明</h1><p>本博客使用Vercel托管hexo静态页面，使用腾讯云域名注册，主题使用<a href="https://github.com/jerryc127/hexo-theme-butterfly">hexo-theme-butterfly</a>，配置步骤参考<a href="https://demo.jerryc.me/">https://demo.jerryc.me/</a></p>
@@ -211,7 +211,7 @@
 
 ]]></content>
       <categories>
-        <category>学习</category>
+        <category>Java学习</category>
       </categories>
       <tags>
         <tag>Java</tag>
